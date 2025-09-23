@@ -22,7 +22,6 @@ npm-debug.log*
 /.sass-cache
 /.sourcemaps
 /.versions
-/.vscode
 /coverage
 /dist
 /node_modules
@@ -30,11 +29,10 @@ npm-debug.log*
 /plugins
 /www
 
-.env
-.env.*
 
 # Excluding the .env.example file from .gitignore
 !.env.example
 
 .history
 .firebase
+config.bat
